@@ -1,0 +1,5 @@
+{
+  "name": "The Petals Banquet Manager",
+  "description": "An application to manage and book events for The Petals Banquet hall. It includes a dashboard for stats, a calendar for bookings, a comprehensive event list with filtering, and a settings page for customization.",
+  "requestFramePermissions": []
+}
